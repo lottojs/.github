@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/lottojs/documentation">
-    <img src=".github/logo.png" alt="Logo" width="100" height="115">
+    <img src="./profile/logo.png" alt="Logo" width="100" height="115">
   </a>
 
   <h3 align="center">LottoJS</h3>
